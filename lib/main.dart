@@ -174,7 +174,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
                       buildButton('1', Color(0xFF0B344F), () => append('1')),
                       buildButton('2', Color(0xFF0B344F), () => append('2')),
                       buildButton('3', Color(0xFF0B344F), () => append('3')),
-                      buildButton('/', Color(0xFF0B344F), () => append('/')),
+                      buildButton('÷', Color(0xFF0B344F), () => append('/')),
 
                     ],
                   ),
