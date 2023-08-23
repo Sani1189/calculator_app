@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_6](https://github.com/Sani1189/calculator_app/assets/76781606/d6663ecc-f6df-4d8e-8ff6-01a393ed8421)
 
 This project is a starting point for a Flutter application.
 
